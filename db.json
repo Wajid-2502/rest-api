@@ -1,0 +1,8 @@
+{
+    "students": [
+    { "id": 1, "stuname": "Wajid Ali", "email": "wajid@test.com" },
+    { "id": 2, "stuname": "Akram Syed", "email": "akram@test.com" },
+    { "id": 3, "stuname": "Sami Khan", "email": "sami@test.com" }
+
+  ]
+}
